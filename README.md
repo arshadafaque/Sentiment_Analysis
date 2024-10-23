@@ -19,6 +19,9 @@ The project explores multiple machine learning models for sentiment analysis, in
 -Naive Bayes
 -Random Forest
 -Support Vector Machines (SVM)
+-AdaBoostClassifier
+-GradientBoostingClassifier
+-XGBClassifier
 
 The models are evaluated using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC score.
 
